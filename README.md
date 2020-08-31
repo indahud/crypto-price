@@ -6,4 +6,3 @@
 - Github Pages for deployment
 ---
 [Deployed Url](https://indahud.github.io/cryptoprice/)
-[Code for repo](https://indahud.com/)
